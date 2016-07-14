@@ -1,5 +1,4 @@
 
-ankit raj
 
 #include<iostream>
 using namespace std;
